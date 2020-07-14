@@ -18,8 +18,7 @@ Here are some ideas to get you started:
 - 🤖  Interested in Robotics, AI, and Operating Systems.
 - 🖥  Currently have no open projects, its mostly just coursework. 
 <div>
-    <img align="right" src=https://media.giphy.com/media/Nx0rz3jtxtEre/giphy.gif>
-  <img align="right" src=https://github-readme-stats.vercel.app/api?username=AnishGDev&show_icons=true&title_color=fff&icon_color=79ff97&text_color=9f9f9f&bg_color=151515>
+  <img align="left" src=https://github-readme-stats.vercel.app/api?username=AnishGDev&show_icons=true&title_color=fff&icon_color=79ff97&text_color=9f9f9f&bg_color=151515>
 </div>
 <!--
 ![](https://github-readme-stats.vercel.app/api?username=AnishGDev&show_icons=true&title_color=fff&icon_color=79ff97&text_color=9f9f9f&bg_color=151515) ![](https://media1.giphy.com/media/LmNwrBhejkK9EFP504/giphy.gif) 
