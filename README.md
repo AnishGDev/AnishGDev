@@ -15,9 +15,10 @@ Here are some ideas to get you started:
 <h1 align="center">Hello there.</h1>
 
 <div>
-![](https://media.giphy.com/media/Nx0rz3jtxtEre/giphy.gif)
-![](https://github-readme-stats.vercel.app/api?username=AnishGDev&show_icons=true&title_color=fff&icon_color=79ff97&text_color=9f9f9f&bg_color=151515)
+  <img align="left" src=https://media.giphy.com/media/Nx0rz3jtxtEre/giphy.gif>
+  <img align="right" src=https://github-readme-stats.vercel.app/api?username=AnishGDev&show_icons=true&title_color=fff&icon_color=79ff97&text_color=9f9f9f&bg_color=151515>
 </div>
+
 - 🎓  Computer Engineering student at UNSW Sydney
 - 🤖  Interested in Robotics, AI, and Operating Systems.
 - 🖥  Currently have no open projects, its mostly just coursework. 
