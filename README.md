@@ -14,9 +14,9 @@ Here are some ideas to get you started:
 -->
 <h1 align="center">Hello there.</h1>
   
-- 🎓 ` Computer Engineering student at UNSW Sydney`
-- 🤖  Interested in Robotics, AI, and Operating Systems.
-- 🖥  Currently have no open projects. 
+- `🎓  Computer Engineering student at UNSW Sydney`
+- `🤖  Interested in Robotics, AI, and Operating Systems.`
+- `🖥  Currently have no open projects. `
 <div>
   <img align="left" src=https://github-readme-stats.vercel.app/api?username=AnishGDev&show_icons=true&title_color=fff&icon_color=79ff97&text_color=9f9f9f&bg_color=151515>
 </div>
