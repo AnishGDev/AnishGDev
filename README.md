@@ -14,7 +14,7 @@ Here are some ideas to get you started:
 -->
 <h1 align="center">Hello there.</h1>
   
-- 🎓  Computer Engineering student at UNSW Sydney
+- 🎓 ` Computer Engineering student at UNSW Sydney`
 - 🤖  Interested in Robotics, AI, and Operating Systems.
 - 🖥  Currently have no open projects. 
 <div>
