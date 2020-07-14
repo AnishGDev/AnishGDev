@@ -12,13 +12,13 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-# Hello there.
+<h1 align="center">Hello there.</h1>
+
 ![](https://media.giphy.com/media/Nx0rz3jtxtEre/giphy.gif)
 
-I'm
-- 🎓  a Computer Engineering student at UNSW Sydney
+- 🎓  Computer Engineering student at UNSW Sydney
 - 🤖  Interested in Robotics, AI, and Operating Systems.
-- 🖥  Currently have no open projects, mostly just coursework. 
+- 🖥  Currently have no open projects, its mostly just coursework. 
 
 ![](https://github-readme-stats.vercel.app/api?username=AnishGDev&show_icons=true&title_color=fff&icon_color=79ff97&text_color=9f9f9f&bg_color=151515)
 <!--
