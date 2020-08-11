@@ -1,7 +1,7 @@
 <h1 align="center">Hello There.</h1>
 <h3 align="center">I'm a first year Computer Engineering student at UNSW.</h3>
 
-- 🔭 I’m currently working on [COMP2521 AI project](https://github.com/AnishGDev/FuryOfDracula)
+- 🔭 I’m currently working on a [COMP2521 heuristic AI project](https://github.com/AnishGDev/FuryOfDracula)
 
 - 🌱 I’m currently learning **ROS, Object Recognition (for Driverless Cars) and Game Theory.**
 
